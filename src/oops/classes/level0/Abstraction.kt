@@ -10,7 +10,6 @@ import java.util.*
  * */
 
 abstract class Shape {
-
     abstract fun area(): Double
 }
 
